@@ -1,4 +1,4 @@
-# Hashes and Enumerables: Iterating Over Hashes With `#each`
+# Hashes and Enumerables: Iterating Over Hashes With `#each`  
 
 ## Overview
 
